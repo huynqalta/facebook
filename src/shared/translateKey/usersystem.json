@@ -1,0 +1,38 @@
+{
+    "Name": {
+        "USA": "Name",
+        "VNM": "Tên"
+    },
+    "Edit": {
+        "USA": "Edit",
+        "VNM": "Sửa"
+    },
+    "Delete": {
+        "USA": "Delete",
+        "VNM": "Xóa"
+    },
+    "User_system": {
+        "USA": "User system",
+        "VNM": "Người dùng hệ thống"
+    },
+    "Home": {
+        "USA": "Home",
+        "VNM": "Trang chủ"
+    },
+    "add_User": {
+        "USA": "Add user",
+        "VNM": "Thêm user"
+    },
+    "userEmail": {
+        "USA": "User Email",
+        "VNM": "Email người dùng"
+    },
+    "Please_input_your_username": {
+        "USA": "Please input your username!",
+        "VNM": "Xin hãy nhập tên người dùng"
+    },
+    "Please_input_your_Email": {
+        "USA": "Please input your Email!",
+        "VNM": "Xin hãy nhập Email người dùng"
+    }
+}

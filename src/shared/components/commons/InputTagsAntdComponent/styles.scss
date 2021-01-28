@@ -1,0 +1,21 @@
+.input_tags_antd {
+  .ant-input-affix-wrapper {
+    background: #e2e2e2 !important;
+    border: 1px solid #a49e9e;
+    &:hover {
+      border: 1px solid #a49e9e;
+    }
+    &:focus {
+      box-shadow: none;
+    }
+    &-focused {
+      box-shadow: none;
+    }
+  }
+  .ant-tag {
+    font-weight: bold;
+    color: #000;
+    align-items: center;
+    display: flex;
+  }
+}

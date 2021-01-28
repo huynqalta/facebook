@@ -1,0 +1,55 @@
+@import "./../../variables";
+.alta{
+
+  .listCheckedDay {
+    .ant-tag-checkable-checked {
+      background-color: $color-blue;
+    }
+    
+  }
+  .DayPicker {
+    padding: 0 20px !important;
+    border: 1px solid #d9d9d9 !important;
+    background-color: #e2e2e2 !important;
+
+    .DayPicker-Day--selected:not(.DayPicker-Day--disabled):not(.DayPicker-Day--outside) {
+      background-color: $color-alta !important;
+
+      &:hover {
+        background-color: $color-alta !important;
+      }
+    }
+  }
+  .header-invisible {
+    .DayPicker-Month {
+      margin: 0;
+    }
+
+    .DayPicker-Caption,
+    .DayPicker-NavBar,
+    .DayPicker-Weekdays {
+      display: none;
+    }
+  }
+  #preview::-webkit-scrollbar {
+    width: 5px;
+    background-color: #f5f5f5;
+  }
+
+  #preview::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+    background-color: $color-alta;
+  }
+
+  .DayPicker-button-next-disable {
+    .DayPicker-NavButton--next {
+      display: none;
+    }
+  }
+  .DayPicker-button-pre-disable {
+    .DayPicker-NavButton--prev {
+      display: none;
+    }
+  }
+}

@@ -1,0 +1,60 @@
+@import "./../../variables";
+
+@import "./button.scss";
+@import "./tab.scss";
+@import "./header.scss";
+@import "./sidebar.scss";
+@import "./breadcumb.scss";
+@import "./checkbox.scss";
+@import "./dayPicker.scss";
+
+.alta {
+  //===========SEARCH============
+  .search-bar {
+    margin-bottom: 0;
+    input.form-control {
+      border: 1px solid $color-scrollBar !important;
+      font-size: 14px;
+      font-style: italic;
+    }
+    .icon-search {
+      top: 50%;
+      transform: translateY(-59%);
+      &__ant {
+        display: none;
+      }
+      &__img {
+        display: initial;
+      }
+    }
+  }
+
+}
+
+//===========BODY===========
+body.alta {
+  background-color: $bodyBackgroundColor;
+  .main-content-wrapper .wrap-content {
+    margin: 1rem 2.1rem 1rem 4rem;
+  }
+}
+
+//=============SCROLL BAR ===============
+.alta {
+  /* width */
+  ::-webkit-scrollbar {
+    width: 8px;
+  }
+
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: $color-scrollBar;
+    border-radius: 10px;
+    transition: 1s;
+  }
+
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #f1d2c7;
+  }
+}

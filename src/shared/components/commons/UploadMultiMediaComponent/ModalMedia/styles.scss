@@ -1,0 +1,67 @@
+.editImageFace_small {
+  .ant-modal-body {
+    height: auto;
+  }
+}
+
+.modalImageFace {
+  .ant-modal-content {
+    padding: 15px !important;
+  }
+  .ant-modal-body {
+    max-height: 600px;
+    overflow-y: auto;
+    scroll-snap-type: y;
+    padding-bottom: 0px !important;
+    &::-webkit-scrollbar {
+      width: 8px;
+    }
+
+    /* Track */
+    &::-webkit-scrollbar-track {
+      box-shadow: inset 0 0 5px grey;
+      border-radius: 10px;
+      height: 200px;
+    }
+
+    /* Handle */
+    &::-webkit-scrollbar-thumb {
+      background: #c1c1c1;
+      border-radius: 10px;
+    }
+
+    /* Handle on hover */
+    &::-webkit-scrollbar-thumb:hover {
+      background: #a5a2a2;
+    }
+  }
+  .editImageFace {
+    position: relative;
+    button {
+      position: absolute;
+      top: 5px;
+      right: 5px;
+    }
+  }
+}
+
+.modalEditFace {
+  .ant-modal-body {
+    height: auto;
+  }
+  .ant-modal-content {
+    padding: 15px !important;
+  }
+}
+
+.imageNotFound {
+  &:hover {
+    cursor: pointer;
+  }
+}
+
+.isClick {
+  &:hover {
+    cursor: pointer;
+  }
+}

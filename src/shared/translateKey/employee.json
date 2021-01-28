@@ -1,0 +1,110 @@
+{
+  "NAME": {
+    "USA": "Name",
+    "VNM": "Họ tên"
+  },
+  "EMAIL": {
+    "USA": "Email",
+    "VNM": "Email"
+  },
+  "MALE": {
+    "USA": "Male",
+    "VNM": "Nam"
+  },
+  "FEMALE": {
+    "USA": "Female",
+    "VNM": "Nữ"
+  },
+  "GENDER": {
+    "USA": "Gender",
+    "VNM": "Giới tính"
+  },
+  "PHONE": {
+    "USA": "Phone Number",
+    "VNM": "Điện thoại"
+  },
+  "ADDRESS": {
+    "USA": "Address",
+    "VNM": "Địa chỉ"
+  },
+  "STATUS": {
+    "USA": "Status",
+    "VNM": "Trạng thái"
+  },
+  "GROUP_NAME": {
+    "USA": "Group",
+    "VNM": "Tên Nhóm"
+  },
+  "PROFILE": {
+    "USA": "Profile",
+    "VNM": "Hồ sơ"
+  },
+  "MODE": {
+    "USA": "Mode",
+    "VNM": "Cách thức"
+  },
+  "FACE": {
+    "USA": "Face",
+    "VNM": "Gương mặt"
+  },
+  "EDIT": {
+    "USA": "Edit",
+    "VNM": "Sửa"
+  },
+  "DELETE": {
+    "USA": "Delete",
+    "VNM": "Xóa"
+  },
+  "LIST_EMPLOYEE": {
+    "USA": "List employee",
+    "VNM": "Danh sách nhân viên"
+  },
+  "EMPLOYEE": {
+    "USA": "Employees",
+    "VNM": "Nhân viên"
+  },
+  "DETAIL_EMPLOYEE": {
+    "USA": "Detail employees",
+    "VNM": "Chi tiết nhân viên"
+  },
+  "ADD_EMPLOYEE": {
+    "USA": "Add Employee",
+    "VNM": "Thêm nhân viên"
+  },
+  "FIRST_NAME": {
+    "USA": "First Name",
+    "VNM": "Tên"
+  },
+  "LAST_NAME": {
+    "USA": "Last Name",
+    "VNM": "Họ"
+  },
+  "PLEASE_INPUT": {
+    "USA": "Please input",
+    "VNM": "Vui lòng nhập"
+  },
+  "PLEASE_CHOOSE": {
+    "USA": "Please choose",
+    "VNM": "Vui lòng chọn"
+  },
+  "CORRECT": {
+    "USA": "correct format",
+    "VNM": "đúng định dạng"
+  },
+  "EDIT_EMPLOYEE": {
+    "USA": "Edit Employee",
+    "VNM": "Sửa nhân viên"
+  },
+  "CANCEL": {
+    "USA": "Cancel",
+    "VNM": "Hủy bỏ"
+  },
+  "SAVE": {
+    "USA": "Save",
+    "VNM": "Lưu"
+  },
+  "TAG": {
+    "USA": "Tag",
+    "VNM": "Thẻ"
+  }
+}

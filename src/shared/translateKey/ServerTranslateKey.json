@@ -1,0 +1,1218 @@
+{
+  "MESS_LOCAL_REQUIRE": {
+    "USA": "This field is require!",
+    "VNM": "Không được để trống trường này!"
+  },
+  "MESS_LOCAL_EMAIL": {
+    "USA": "Please input email!",
+    "VNM": "Vui lòng nhập vào địa chỉ email!"
+  },
+  "MESS_LOCAL_COINCIDE_KEY": {
+    "USA": "Key can not be coincide!",
+    "VNM": "Không được để trùng từ khóa!"
+  },
+  "MESS_LOCAL_NUMBER": {
+    "USA": "Please input a number!",
+    "VNM": "Vui lòng nhập số!"
+  },
+  "MESS_LOCAL_URL": {
+    "USA": "Please input a url!",
+    "VNM": "Vui lòng nhập một đường dẫn!"
+  },
+  "MESS_NAME_MODULES": {
+    "USA": "Please input name module!",
+    "VNM": "Vui lòng nhập tên mô-đun!"
+  },
+  "MESS_EMPTY_LIST_MODULES": {
+    "USA": "List module is empty !",
+    "VNM": "Danh sách mô-đun trống !"
+  },
+  "MESS_EMPTY_LIST_ARTICLES": {
+    "USA": "List article is empty !",
+    "VNM": "Danh sách bài viết trống !"
+  },
+  "MESS_SELECT_MODULES": {
+    "USA": "Please select modules !",
+    "VNM": "Vui lòng chọn mô-đun !"
+  },
+  "MESS_SELECT_LANGUAGE": {
+    "USA": "Please select language !",
+    "VNM": "Vui lòng chọn ngôn ngữ !"
+  },
+  "MESS_SELECT_TYPE_MODULES": {
+    "USA": "Please select type modules !",
+    "VNM": "Vui lòng chọn loại mô-đun  !"
+  },
+  "MESS_TYPE_MODULES": {
+    "USA": "Select type modules !",
+    "VNM": "Chọn loại mô-đun  !"
+  },
+  "MESS_EMPTY_SELECT_ARTICLES": {
+    "USA": "Please select articles !",
+    "VNM": "Vui lòng chọn các bài viết !"
+  },
+  "MESS_SELECT_ARTICLES": {
+    "USA": "Select articles !",
+    "VNM": "Chọn các bài viết !"
+  },
+  "MESS_SELECT_ARTICLES_PARENT": {
+    "USA": "Select article parent !",
+    "VNM": "Chọn bài viết cha !"
+  },
+  "MESS_USER_NAME_REQUIRE": {
+    "USA": "Email is required !",
+    "VNM": "Vui lòng nhập Địa Chỉ email !"
+  },
+  "MESS_USER_PASS_REQUIRE": {
+    "USA": "Username is required !",
+    "VNM": "Vui lòng nhập Địa Chỉ email !"
+  },
+  "MESS_TEMPLATE_NAME_REQUIRE": {
+    "USA": "Template name is required !",
+    "VNM": "Vui lòng nhập tên mẫu !"
+  },
+  "MESS_LANGUAGE_TEMPLATE_NAME_REQUIRE": {
+    "USA": "Language template name is required !",
+    "VNM": "Vui lòng nhập ngôn ngữ tên mẫu !"
+  },
+  "MESS_TEMPLATE_CONTENT_REQUIRE": {
+    "USA": "Template content is required !",
+    "VNM": "Vui lòng nhập nội dung mẫu !"
+  },
+  "MESS_EMPTY_TITLE_NOTIFICATION": {
+    "USA": "Please input title nofitication !",
+    "VNM": "Vui lòng nhập tiêu đề thông báo !"
+  },
+  "MESS_EMPTY_MESSAGE_NOTIFICATION": {
+    "USA": "Please input message nofitication !",
+    "VNM": "Vui lòng nhập tin nhắn thông báo !"
+  },
+  "MESS_EMPTY_NAME_NOTIFICATION": {
+    "USA": "Please input name nofitication !",
+    "VNM": "Vui lòng nhập tên thông báo !"
+  },
+  "MESS_EMPTY_LANGUAGE_NOTIFICATION": {
+    "USA": "Please select language nofitication !",
+    "VNM": "Vui lòng chọn ngôn ngữ thông báo !"
+  },
+  "MESS_EMPTY_NOTIFICATIONS_TIMES": {
+    "USA": "Please input notification times!",
+    "VNM": "Vui lòng nhập thời gian thông báo !"
+  },
+  "MESS_EMPTY_COUNTRY_NAME": {
+    "USA": "Please input country name !",
+    "VNM": "Vui lòng nhập tên quốc gia !"
+  },
+  "MESS_EMPTY_TIME_START": {
+    "USA": "Please input time start !",
+    "VNM": "Vui lòng nhập thời gian bắt đầu !"
+  },
+  "MESS_EMPTY_LINK": {
+    "USA": "Please input link !",
+    "VNM": "Vui lòng nhập đường dẫn !"
+  },
+  "MESS_EMPTY_TYPE_NOTIFICATION": {
+    "USA": "Please choose type notification !",
+    "VNM": "Vui lòng chọn loại notification !"
+  },
+  "MESS_EMPTY_EVENT_ID": {
+    "USA": "Please choose type event !",
+    "VNM": "Vui lòng chọn loại sự kiện !"
+  },
+  "PushNotificationSuccess": {
+    "VNM": "Gửi thông báo thành công.",
+    "USA": "PushNotificationSuccess"
+  },
+  "InsertDeviceSuccess": {
+    "VNM": "Thêm thiết bị thành công.",
+    "USA": "InsertDeviceSuccess"
+  },
+  "GetDeviceSuccess": {
+    "VNM": "Lấy thông tin thiết bị thành công.",
+    "USA": "GetDeviceSuccess"
+  },
+  "GetNotificationSuccess": {
+    "VNM": "Lấy danh sách thông báo thành công.",
+    "USA": "GetNotificationSuccess"
+  },
+  "GetTemplateSuccess": {
+    "VNM": "Lấy danh sách template thành công.",
+    "USA": "GetTemplateSuccess"
+  },
+  "GetTemplateLanguageSuccess": {
+    "VNM": "Lấy danh sách template ngôn ngữ thành công",
+    "USA": "GetTemplateLanguageSuccess"
+  },
+  "InsertTemplateSuccess": {
+    "VNM": "Thêm template thành công.",
+    "USA": "InsertTemplateSuccess"
+  },
+  "DeleteTemplateSuccess": {
+    "VNM": "Xóa template thành công.",
+    "USA": "DeleteTemplateSuccess"
+  },
+  "UpdateTemplateSuccess": {
+    "VNM": "Cập nhật template thành công.",
+    "USA": "UpdateTemplateSuccess"
+  },
+  "UpdateTemplateLanguageSuccess": {
+    "VNM": "Cập nhật template ngôn ngữ thành công.",
+    "USA": "UpdateTemplateLanguageSuccess"
+  },
+  "DeleteTemplateLanguageSuccess": {
+    "VNM": "Xóa template ngôn ngữ thành công,",
+    "USA": "DeleteTemplateLanguageSuccess"
+  },
+  "ImportAirportTranslateSuccess": {
+    "VNM": "Import danh sách bản dịch sân bay thành công",
+    "USA": "ImportAirportTranslateSuccess"
+  },
+  "AddTranslateAirportSuccess": {
+    "VNM": "Thêm bản dịch sân bay thành công",
+    "USA": "AddTranslateAirportSuccess"
+  },
+  "ShowAirportByLanguageCodeSuccess": {
+    "VNM": "Hiển thị danh sách sân bay theo ngôn ngữ thành công",
+    "USA": "ShowAirportByLanguageCodeSuccess"
+  },
+  "UpdateAirportSuccess": {
+    "VNM": "Cập nhật bản dịch sân bay thành công",
+    "USA": "UpdateAirportSuccess"
+  },
+  "ShowAirportByCountrySuccess": {
+    "VNM": "Hiển thị danh sách sân bay theo quốc gia thành công",
+    "USA": "ShowAirportByCountrySuccess"
+  },
+  "ShowAllAirportSuccess": {
+    "VNM": "Hiển thị tất cả sân bay thành công",
+    "USA": "ShowAllAirportSuccess"
+  },
+  "AddTranslateCountrySuccess": {
+    "VNM": "Thêm bản dịch quốc gia thành công",
+    "USA": "AddTranslateCountrySuccess"
+  },
+  "AddCountrySuccess": {
+    "VNM": "Thêm quốc gia thành công",
+    "USA": "AddCountrySuccess"
+  },
+  "RemoveTranslateCountrySuccess": {
+    "VNM": "Xóa bản dịch quốc gia thành công",
+    "USA": "RemoveTranslateCountrySuccess"
+  },
+  "DeleteCountrySuccess": {
+    "VNM": "Xóa quốc gia thành công",
+    "USA": "DeleteCountrySuccess"
+  },
+  "ShowListAirportLanugageSuccess": {
+    "VNM": "Hiển thị danh sách sân bay của quốc gia thành công",
+    "USA": "ShowListAirportLanugageSuccess"
+  },
+  "ShowListCountrySuccess": {
+    "VNM": "Hiển thị danh sách quốc gia thành công",
+    "USA": "ShowListCountrySuccess"
+  },
+  "UpdateAirportsLanguageSuccess": {
+    "VNM": "Chỉnh sửa danh sách sân bay thành công",
+    "USA": "UpdateAirportsLanguageSuccess"
+  },
+  "DeleteKeySuccess": {
+    "VNM": "Xóa key thành công",
+    "USA": "DeleteKeySuccess"
+  },
+  "ImportTranslateKeySuccess": {
+    "VNM": "Import danh sách bản dịch key thành công",
+    "USA": "ImportTranslateKeySuccess"
+  },
+  "ExportKeysSuccess": {
+    "VNM": "Xuất danh sách key thành công",
+    "USA": "ExportKeysSuccess"
+  },
+  "ShowAllKeySuccess": {
+    "VNM": "Hiển thị tất cả key thành công",
+    "USA": "ShowAllKeySuccess"
+  },
+  "UpdateKeySuccess": {
+    "VNM": "Chỉnh sửa Key thành công",
+    "USA": "UpdateKeySuccess"
+  },
+  "AddManyTranslateKeysSuccess": {
+    "VNM": "Thêm nhiều bản dịch key thành công",
+    "USA": "AddManyTranslateKeysSuccess"
+  },
+  "ImportTranslateKeysSuccess": {
+    "VNM": "Import danh sách bản dịch thành công",
+    "USA": "ImportTranslateKeysSuccess"
+  },
+  "ShowTranslateKeySuccess": {
+    "VNM": "Hiển thị danh sách bản dịch key thành công",
+    "USA": "ShowTranslateKeySuccess"
+  },
+  "UpdateManyTranslateKeySuccess": {
+    "VNM": "Cập nhật nhiều bản dịch key thành công",
+    "USA": "UpdateManyTranslateKeySuccess"
+  },
+  "GetLanguageSuccess": {
+    "VNM": "Hiển thị ngôn ngữ thành công",
+    "USA": "GetLanguageSuccess"
+  },
+  "ShowAllLanguageSuccess": {
+    "VNM": "Hiển thị tất cả ngôn ngữ thành công",
+    "USA": "ShowAllLanguageSuccess"
+  },
+  "CreateLanguageSuccess": {
+    "VNM": "Thêm ngôn ngữ mới thành công",
+    "USA": "CreateLanguageSuccess"
+  },
+  "UpdateLanguageSuccess": {
+    "VNM": "Cập nhật ngôn ngữ thành công",
+    "USA": "UpdateLanguageSuccess"
+  },
+  "ShowListLanguageSuccess": {
+    "VNM": "Hiển thị danh sách ngôn ngữ thành công",
+    "USA": "ShowListLanguageSuccess"
+  },
+  "DeleteLanguageSuccess": {
+    "VNM": "Xóa ngôn ngữ thành công",
+    "USA": "DeleteLanguageSuccess"
+  },
+  "PlayerIdRequired": {
+    "VNM": "Playerid không được bỏ trống.",
+    "USA": "PlayerIdRequired"
+  },
+  "UserIdRequired": {
+    "VNM": "UserId không được bỏ trống.",
+    "USA": "UserIdRequired"
+  },
+  "DevicePlatformRequired": {
+    "VNM": "Loại thiết bị không được bỏ trống.",
+    "USA": "DevicePlatformRequired"
+  },
+  "ListUserIdsRequired": {
+    "VNM": "Danh sách userId không được bỏ trống",
+    "USA": "ListUserIdsRequired"
+  },
+  "ListUserIdsNotValid": {
+    "VNM": "Danh sách userId không đúng định dạng",
+    "USA": "ListUserIdsNotValid"
+  },
+  "ListContentRequired": {
+    "VNM": "Danh sách nội dung không được bỏ trống.",
+    "USA": "ListContentRequired"
+  },
+  "ListContentNotValid": {
+    "VNM": "Danh sách nội dung không đúng định dạng.",
+    "USA": "ListContentNotValid"
+  },
+  "LanguageCodeNotValid": {
+    "VNM": "Mã ngôn ngữ không đúng định dạng.",
+    "USA": "LanguageCodeNotValid"
+  },
+  "NotificationTitleRequired": {
+    "VNM": "Tiêu đề thông báo không được bỏ trống,",
+    "USA": "NotificationTitleRequired"
+  },
+  "NotificationContentRequired": {
+    "VNM": "Nội dung thông báo không được bỏ trông.",
+    "USA": "NotificationContentRequired"
+  },
+  "TemplateNameRequired": {
+    "VNM": "Tên template không được bỏ trống.",
+    "USA": "TemplateNameRequired"
+  },
+  "ListTemplateLanguageRequired": {
+    "VNM": "Danh sách template theo ngôn ngữ không được bỏ trống,",
+    "USA": "ListTemplateLanguageRequired"
+  },
+  "ListTemplateLanguageNotValid": {
+    "VNM": "Danh sách template theo ngôn ngữ không đúng định dạng.",
+    "USA": "ListTemplateLanguageNotValid"
+  },
+  "TemplateContentRequired": {
+    "VNM": "Nội dung template không được bỏ trống.",
+    "USA": "TemplateContentRequired"
+  },
+  "TemplateNotExists": {
+    "VNM": "Template không tồn tại",
+    "USA": "TemplateNotExists"
+  },
+  "TemplateLanguageNotExists": {
+    "VNM": "Template theo ngôn ngữ không tồn tại.",
+    "USA": "TemplateLanguageNotExists"
+  },
+  "PleaseDeleteTemplateLanguageExists": {
+    "VNM": "Vui lòng xóa templatelanguage trước khi xóa template.",
+    "USA": "PleaseDeleteTemplateLanguageExists"
+  },
+  "ListContentNotifitionTranslateRequired": {
+    "VNM": "Danh sách nội dung thông báo theo ngôn ngữ không đươc bỏ trống",
+    "USA": "ListContentNotifitionTranslateRequired"
+  },
+  "ListContentNotifitionTranslateNotValid": {
+    "VNM": "Danh sách nội dung thông báo theo ngôn ngữ không đúng định dạng",
+    "USA": "ListContentNotifitionTranslateNotValid"
+  },
+  "StartTimeInvalid": {
+    "VNM": "Thời gian chạy schedule không đúng định dạng",
+    "USA": "StartTimeInvalid"
+  },
+  "ValueScheduleRequired": {
+    "VNM": "Giá trị của loại schedule không được bỏ trống",
+    "USA": "ValueScheduleRequired"
+  },
+  "DateCannotBeLessThan1AndNotGreaterThan31": {
+    "VNM": "Ngày không được nhỏ hơn 1 và lớn hơn 31",
+    "USA": "DateCannotBeLessThan1AndNotGreaterThan31"
+  },
+  "DateMustBeADayOfWeek": {
+    "VNM": "Ngày trong tuần không đúng định dạng",
+    "USA": "DateMustBeADayOfWeek"
+  },
+  "ContentNameRequired": {
+    "VNM": "Tên nội dung không được bỏ trống",
+    "USA": "ContentNameRequired"
+  },
+  "TypeRequired": {
+    "VNM": "Loại không được bỏ trống",
+    "USA": "TypeRequired"
+  },
+  "TitleRequired": {
+    "VNM": "Tiêu đề không được bỏ trống",
+    "USA": "TitleRequired"
+  },
+  "ContentRequired": {
+    "VNM": "Nội dung thông báo không được bỏ trôống",
+    "USA": "ContentRequired"
+  },
+  "FlagDefaultNotValid": {
+    "VNM": "cờ content mặc định không vượt quá 1",
+    "USA": "FlagDefaultNotValid"
+  },
+  "LanguageSubNotExist": {
+    "VNM": "Ngôn ngữ con không tồn tại",
+    "USA": "LanguageSubNotExist"
+  },
+  "KeyCodeNotExist: {keycode}": {
+    "VNM": "Không tồn tại key :{keycode}",
+    "USA": "KeyCodeNotExist: {keycode}"
+  },
+  "LanguageCodeNotExist:{languagecode}": {
+    "VNM": "Không tồn tại mã ngôn ngữ : {LanguageCode}",
+    "USA": "LanguageCodeNotExist:{languagecode}"
+  },
+  "TranslateKeyAreadlyExist": {
+    "VNM": "Key đã tồn tại bản dịch",
+    "USA": "TranslateKeyAreadlyExist"
+  },
+  "LanguageCodeAreadlyExist": {
+    "VNM": "Mã ngôn ngữ đã tồn tại",
+    "USA": "LanguageCodeAreadlyExist"
+  },
+  "LanguageCodeIsNull": {
+    "VNM": "Mã ngôn ngữ không được để trống",
+    "USA": "LanguageCodeIsNull"
+  },
+  "AirPortNotExist": {
+    "VNM": "Mã sân bay không tồn tại",
+    "USA": "AirPortNotExist"
+  },
+  "CountryNotExist": {
+    "VNM": "Quốc gia không tồn tại",
+    "USA": "CountryNotExist"
+  },
+  "CountryNameIsExist": {
+    "VNM": "Tên quốc gia đã tồn tại",
+    "USA": "CountryNameIsExist"
+  },
+  "CountryLanguageNotExist": {
+    "VNM": "Bản dịch quốc gia không tồn tại",
+    "USA": "CountryLanguageNotExist"
+  },
+  "KeyNotExist": {
+    "VNM": "Key không tồn tại",
+    "USA": "KeyNotExist"
+  },
+  "KeyCodeNotExist": {
+    "VNM": "KeyCode không tồn tại",
+    "USA": "KeyCodeNotExist"
+  },
+  "LanguageCodeNotExist": {
+    "VNM": "Mã ngôn ngữ không tồn tại",
+    "USA": "LanguageCodeNotExist"
+  },
+  "TranslateKeyNotExist": {
+    "VNM": "Bản dịch key không tồn tại",
+    "USA": "TranslateKeyNotExist"
+  },
+  "LanguageIsNull": {
+    "VNM": "Ngôn ngữ không tồn tại",
+    "USA": "LanguageIsNull"
+  },
+  "UpdateAirportLanguageFaild": {
+    "VNM": "Cập nhật mả dịch sân bay thất bại",
+    "USA": "UpdateAirportLanguageFaild"
+  },
+  "AddListTranslateCountryFaild": {
+    "VNM": "Thêm danh sách bản dịch quốc gia thất bại",
+    "USA": "AddListTranslateCountryFaild"
+  },
+  "ImportKeysFaild": {
+    "VNM": "Thêm danh sách key thất bại",
+    "USA": "ImportKeysFaild"
+  },
+  "AddManyKeysFaild": {
+    "VNM": "Thêm danh sách key thất bại",
+    "USA": "AddManyKeysFaild"
+  },
+  "UpdateManyFaild": {
+    "VNM": "Chỉnh sửa danh sách key thất bại",
+    "USA": "UpdateManyFaild"
+  },
+  "AddManyTranslateKeysFaild": {
+    "VNM": "Thêm nhiều bản dịch key thất bại",
+    "USA": "AddManyTranslateKeysFaild"
+  },
+  "ImportTranslateKeysFaild": {
+    "VNM": "Import danh sách bản dịch key thất bại",
+    "USA": "ImportTranslateKeysFaild"
+  },
+  "NullSortFiledOrSortOrder": {
+    "VNM": "SortFiled và SortOrder không thể rỗng",
+    "USA": "NullSortFiledOrSortOrder"
+  },
+  "SortOrderIsIncorrect": {
+    "VNM": "Sắp xếp thứ tự chính xác (descend,ascend)",
+    "USA": "SortOrderIsIncorrect"
+  },
+  "FieldLanguageCodeMaxLength50character": {
+    "VNM": "Trường LanguageCode tối đa 50 kí tự",
+    "USA": "FieldLanguageCodeMaxLength50character"
+  },
+  "FieldLanguageSubMaxLength50character": {
+    "VNM": "Trường LanguageSub tối đa 50 kí tự",
+    "USA": "FieldLanguageSubMaxLength50character"
+  },
+  "FieldLanguageNameMaxLength100character": {
+    "VNM": "Trường LanguageName tối đa 100 kí tự",
+    "USA": "FieldLanguageNameMaxLength100character"
+  },
+  "FieldLanguageCurrencyMaxLength50character": {
+    "VNM": "Trường LanguageCurrency tối đa 50 kí tự",
+    "USA": "FieldLanguageCurrencyMaxLength50character"
+  },
+  "FieldLanguageCurrencyMaxLength10character": {
+    "VNM": "Trường LanguageCurrency tối đa 10 kí tự",
+    "USA": "FieldLanguageCurrencyMaxLength10character"
+  },
+  "FieldKeyCodeMaxLength255character": {
+    "VNM": "KeyCode tối đa 255 kí tự",
+    "USA": "FieldKeyCodeMaxLength255character"
+  },
+  "LanguageSubCan'tLanguageCodeByItself": {
+    "VNM": "LanguaSub không thể làn LanguageCode của chính nó",
+    "USA": "LanguageSubCan'tLanguageCodeByItself"
+  },
+  "AddTranslateAirportFaild": {
+    "VNM": "Thêm bản dịch sân bay không thành công",
+    "USA": "AddTranslateAirportFaild"
+  },
+  "UpdateTranslateCountryFaild": {
+    "VNM": "Cập nhật mả dịch quốc gia thất bại",
+    "USA": "UpdateTranslateCountryFaild"
+  },
+  "UserNameAreadlyExist": {
+    "VNM": "UserName đã tồn tại",
+    "USA": "UserNameAreadlyExist"
+  },
+  "PasswordAndConfirmationIncorrect": {
+    "VNM": "Mật khẩu xác nhận không khớp",
+    "USA": "PasswordAndConfirmationIncorrect"
+  },
+  "UserNameNotExist": {
+    "VNM": "Tên đăng nhập không tồn tại",
+    "USA": "UserNameNotExist"
+  },
+  "ReservationCodeIsRequired": {
+    "VNM": "Mã đặt chỗ là bắt buộc",
+    "USA": "ReservationCodeIsRequired"
+  },
+  "ReservationNotFound": {
+    "VNM": "Không tìm thấy mã đặt chỗ",
+    "USA": "ReservationNotFound"
+  },
+  "AnErrorOccuredWithAccountSkyclub": {
+    "VNM": "Có lỗi xảy ra với account skyclub của bạn",
+    "USA": "AnErrorOccuredWithAccountSkyclub"
+  },
+  "PaymentTransactionsIsRequired": {
+    "VNM": "PaymentTransactions là bắt buộc",
+    "USA": "PaymentTransactionsIsRequired"
+  },
+  "journeyKeyIsRequired": {
+    "VNM": "Mã hành trình là bắt buộc",
+    "USA": "journeyKeyIsRequired"
+  },
+  "listSupportCheckinIsRequired": {
+    "VNM": "listSupportCheckin là bắt buộc",
+    "USA": "listSupportCheckinIsRequired"
+  },
+  "reservationNumberIsRequired": {
+    "VNM": "reservationNumber là bắt buộc",
+    "USA": "reservationNumberIsRequired"
+  },
+  "bookingKeyIsRequired": {
+    "VNM": "bookingKey là bắt buộc",
+    "USA": "bookingKeyIsRequired"
+  },
+  "passengerKeyIsRequired": {
+    "VNM": "Mã hành khách là bắt buộc",
+    "USA": "passengerKeyIsRequired"
+  },
+  "ThisReservationIsCancelled": {
+    "VNM": "Đặt chỗ đã bị hủy",
+    "USA": "ThisReservationIsCancelled"
+  },
+  "OverTheDeadline": {
+    "VNM": "Chuyến bay đã qua",
+    "USA": "OverTheDeadline"
+  },
+  "ThisReservationIsNotFullPayment": {
+    "VNM": "Đặt chỗ chưa thanh toán đủ",
+    "USA": "ThisReservationIsNotFullPayment"
+  },
+  "SeatWasNotChosen": {
+    "VNM": "Ghế đã được chọn",
+    "USA": "SeatWasNotChosen"
+  },
+  "TheAirportDoesNotSupportOnlineCheckin": {
+    "VNM": "Sân bay không hỗ trợ checkin online",
+    "USA": "TheAirportDoesNotSupportOnlineCheckin"
+  },
+  "Accept-LanguageIsRequired": {
+    "VNM": "Ngôn ngữ là bắt buộc",
+    "USA": "Accept-LanguageIsRequired"
+  },
+  "AnErrorOccurredWithAmeliaSystem": {
+    "VNM": "Có lỗi xảy ra từ hệ thống amelia (500)",
+    "USA": "AnErrorOccurredWithAmeliaSystem"
+  },
+  "SelectedSeatIsAlreadyAssigned": {
+    "VNM": "Ghế đã được đặt",
+    "USA": "SelectedSeatIsAlreadyAssigned"
+  },
+  "ErrorDecryptingProvidedCardNumberResultingCardNumberIsTooShort": {
+    "VNM": "Lỗi card number min >= 5 số",
+    "USA": "ErrorDecryptingProvidedCardNumberResultingCardNumberIsTooShort"
+  },
+  "TheProvidedCardIsExpired": {
+    "VNM": "Lỗi card hết hạn (nhập expiryMonth or expiryYear)",
+    "USA": "TheProvidedCardIsExpired"
+  },
+  "TheInformationProvidedContainsIncorrectValuesOrIsMissingValuesPleaseCheckTheInformation": {
+    "VNM": "Sai format card",
+    "USA": "TheInformationProvidedContainsIncorrectValuesOrIsMissingValuesPleaseCheckTheInformation"
+  },
+  "TheReservationBalanceIsGreaterThanTheGivenPayment": {
+    "VNM": "Tính tiền không đúng",
+    "USA": "TheReservationBalanceIsGreaterThanTheGivenPayment"
+  },
+  "UserSkyclubIsNull": {
+    "VNM": "Tài khoản skyclub ko tồn tại",
+    "USA": "UserSkyclubIsNull"
+  },
+  "DepartureAirportCodeDoesNotExist": {
+    "VNM": "Saân bay đi không tồn tại",
+    "USA": "DepartureAirportCodeDoesNotExist"
+  },
+  "UserNoFlight": {
+    "VNM": "User chưa có chuyến bay nào",
+    "USA": "UserNoFlight"
+  },
+  "DataIsRequired": {
+    "VNM": "Data Booking Request là bắt buộc",
+    "USA": "DataIsRequired"
+  },
+  "CityPairIsRequired": {
+    "VNM": "CityPair là bắt buộc",
+    "USA": "CityPairIsRequired"
+  },
+  "DepartureTimeIsRequired": {
+    "VNM": "DepartureTime là bắt buộc",
+    "USA": "DepartureTimeIsRequired"
+  },
+  "CurrencyCodeIsRequired": {
+    "VNM": "CurrencyCode là bắt buộc",
+    "USA": "CurrencyCodeIsRequired"
+  },
+  "AdultCountIsRequired": {
+    "VNM": "AdultCount là bắt buộc",
+    "USA": "AdultCountIsRequired"
+  },
+  "ChildCountIsRequired": {
+    "VNM": "ChildCount là bắt buộc",
+    "USA": "ChildCountIsRequired"
+  },
+  "InfantCountIsRequired": {
+    "VNM": "InfantCount là bắt buộc",
+    "USA": "InfantCountIsRequired"
+  },
+  "TheTotalNumberOfAdultsAndChildrenMustBeLessThanOrEqualTo9": {
+    "VNM": "Tổng số adult và child phải nhỏ hơn 9",
+    "USA": "TheTotalNumberOfAdultsAndChildrenMustBeLessThanOrEqualTo9"
+  },
+  "TheNumberOfAdultsAndChildrenMustBeAtLeast1Person": {
+    "VNM": "Tổng số adult và child phải lớn hơn 1",
+    "USA": "TheNumberOfAdultsAndChildrenMustBeAtLeast1Person"
+  },
+  "TheNumberOfInfantsMustNotExceedTheNumberOfAdults": {
+    "VNM": "Số lượng trẻ sơ sinh không được vượt quá số lượng người lớn",
+    "USA": "TheNumberOfInfantsMustNotExceedTheNumberOfAdults"
+  },
+  "ReturnDateCannotBeGreaterThanDepartureDate": {
+    "VNM": "Ngày trở về không thể lớn hơn ngày khởi hành",
+    "USA": "ReturnDateCannotBeGreaterThanDepartureDate"
+  },
+  "ListOfMyFlightsIsEmpty": {
+    "VNM": "Danh sách myflight rỗng",
+    "USA": "ListOfMyFlightsIsEmpty"
+  },
+  "NoFlight": {
+    "VNM": "Không có chuyến bay",
+    "USA": "NoFlight"
+  },
+  "serialNumberisRequired": {
+    "VNM": "serialNumber là bắt buộc (voucher)",
+    "USA": "serialNumberisRequired"
+  },
+  "ListOfDepartureAirports": {
+    "VNM": "Danh sách sân bay đi",
+    "USA": "ListOfDepartureAirports"
+  },
+  "ListOfDestinationAirportsAccordingToTheSelectedDepartureAirportCode": {
+    "VNM": "Danh sách các điểm đến của sân bay theo mã sân bay khởi hành được chọn",
+    "USA": "ListOfDestinationAirportsAccordingToTheSelectedDepartureAirportCode"
+  },
+  "CountryList": {
+    "VNM": "Danh sách country",
+    "USA": "CountryList"
+  },
+  "ListOfProvincesByCountry": {
+    "VNM": "Danh sách province theo country",
+    "USA": "ListOfProvincesByCountry"
+  },
+  "CurrencyList": {
+    "VNM": "Danh sách currency",
+    "USA": "CurrencyList"
+  },
+  "PaymentMethodList": {
+    "VNM": "Danh sách paymentMethod",
+    "USA": "PaymentMethodList"
+  },
+  "ListOfMyFlights": {
+    "VNM": "Danh sách chuyến bay của tôi",
+    "USA": "ListOfMyFlights"
+  },
+  "ListFlightHistory": {
+    "VNM": "Danh sách lịch sử chuyến bay",
+    "USA": "ListFlightHistory"
+  },
+  "ListOfFlightsByOption": {
+    "VNM": "Danh sách travel option",
+    "USA": "ListOfFlightsByOption"
+  },
+  "AccountNotContainEmail&PhoneNumber": {
+    "VNM": "Tài khoản phải bao gồm email hoặc sđt",
+    "USA": "AccountNotContainEmail&PhoneNumber"
+  },
+  "AuthorCodeExpried": {
+    "VNM": "Authorizecode hết hạn (Login Skyclub)",
+    "USA": "AuthorCodeExpried"
+  },
+  "UserNotFound": {
+    "VNM": "Không tìm thấy người dùng",
+    "USA": "UserNotFound"
+  },
+  "AccountHadLinked": {
+    "VNM": "Tài khoản đã liên kết (Link)",
+    "USA": "AccountHadLinked"
+  },
+  "YouHaveOnlyAccount": {
+    "VNM": "Bạn không có tài khoản (Unlink)",
+    "USA": "YouHaveOnlyAccount"
+  },
+  "TransactionPaymentNotFound": {
+    "VNM": "Không tìm thấy transactionPayment",
+    "USA": "TransactionPaymentNotFound"
+  },
+  "PasswordIsIncorrect": {
+    "VNM": "Mật khẩu không đúng (Check login FF)",
+    "USA": "PasswordIsIncorrect"
+  },
+  "EmergencyIsNotExist": {
+    "VNM": "Liên hệ khẩn cấp không tìm thấy",
+    "USA": "EmergencyIsNotExist"
+  },
+  "UserDoNotHaveEmergencyContact": {
+    "VNM": "Người dùng ko có liện hệ khẩn cấp",
+    "USA": "UserDoNotHaveEmergencyContact"
+  },
+  "ProviderIsRequired": {
+    "VNM": "Provider là bắt buộc",
+    "USA": "ProviderIsRequired"
+  },
+  "TokenIsRequired": {
+    "VNM": "Token là bắt buộc",
+    "USA": "TokenIsRequired"
+  },
+  "TransactionIDIsRequired": {
+    "VNM": "TransactionID là bắt buộc",
+    "USA": "TransactionIDIsRequired"
+  },
+  "ContactLastNameIsRequired": {
+    "VNM": "ContactLastName là bắt buộc",
+    "USA": "ContactLastNameIsRequired"
+  },
+  "ContactFirstNameIsRequired": {
+    "VNM": "ContactFirstName là bắt buộc",
+    "USA": "ContactFirstNameIsRequired"
+  },
+  "EmergencyPhoneNumberIsRequired": {
+    "VNM": "EmergencyPhoneNumber là bắt buộc",
+    "USA": "EmergencyPhoneNumberIsRequired"
+  },
+  "EmergencyPhoneNumberIsRequired": {
+    "VNM": "EmergencyPhoneNumber là bắt buôc",
+    "USA": "EmergencyPhoneNumberIsRequired"
+  },
+  "OTPIsRequired": {
+    "VNM": "Mã otp là bắt buộc",
+    "USA": "OTPIsRequired"
+  },
+  "CurrencyIsRequired": {
+    "VNM": "Currency là bắt buộc (verify otp)",
+    "USA": "CurrencyIsRequired"
+  },
+  "ThisPhoneNumberIsAlreadyUseForAnotherAccount": {
+    "VNM": "Số điện thoại đã tồn tại",
+    "USA": "ThisPhoneNumberIsAlreadyUseForAnotherAccount"
+  },
+  "ProviderInValid": {
+    "VNM": "Provider không tồn tại",
+    "USA": "ProviderInValid"
+  },
+  "FirstNameIsRequired": {
+    "VNM": "FirstName là bắt buộc",
+    "USA": "FirstNameIsRequired"
+  },
+  "LastNameIsRequired": {
+    "VNM": "LastName là bắt buộc",
+    "USA": "LastNameIsRequired"
+  },
+  "PasswordTooLength": {
+    "VNM": "Password quá dài ( <= 24)",
+    "USA": "PasswordTooLength"
+  },
+  "LoginCmsSuccess": {
+    "VNM": "Đăng nhập trang quản trị thành công",
+    "USA": "LoginCmsSuccess"
+  },
+  "AddUserCmsSuccess": {
+    "VNM": "Thêm người dùng trang Cms thành công",
+    "USA": "AddUserCmsSuccess"
+  },
+  "DeleteUserCMSSuccess": {
+    "VNM": "Xóa người dùng trang Cms thành công",
+    "USA": "DeleteUserCMSSuccess"
+  },
+  "UpdateUserCMSSuccess": {
+    "VNM": "Cập nhật người dùng trang Cms thành công",
+    "USA": "UpdateUserCMSSuccess"
+  },
+  "ShowSuccess": {
+    "VNM": "Hiển thị thành công",
+    "USA": "ShowSuccess"
+  },
+  "ResetPasswordSuccess": {
+    "VNM": "Reset mật khẩu trang Cms thành công",
+    "USA": "ResetPasswordSuccess"
+  },
+  "EmailNotExist": {
+    "VNM": "Email không tồn tại",
+    "USA": "Email not exist"
+  },
+  "PasswordIncorrect": {
+    "VNM": "Mật khẩu không đúng",
+    "USA": "Password incorrect"
+  },
+  "EmailAreadyExist": {
+    "VNM": "Email đã tồn tại",
+    "USA": "Email Aready Exist"
+  },
+  "UserCMSNotExist": {
+    "VNM": "Tài khoản Cms không tồn tại",
+    "USA": "UserCMSNotExist"
+  },
+  "LanguageAreadlyTranslateNotDelete": {
+    "VNM": "Ngôn ngữ đã tồn tại bản dịch không được xóa",
+    "USA": "LanguageAreadlyTranslateNotDelete"
+  },
+  "LanguageSubCan'tLanguageCodeByItself": {
+    "VNM": "LanguageSub không thể là LanguageCode của chính nó",
+    "USA": "LanguageSubCan'tLanguageCodeByItself"
+  },
+  "ImportSuccess": {
+    "VNM": "Import thành công",
+    "USA": "ImportSuccess"
+  },
+  "AddTranslateAirportFaild": {
+    "VNM": "Thêm bản dịch Airport thất bại",
+    "USA": "AddTranslateAirportFaild"
+  },
+  "EmailIsNotExist": {
+    "VNM": "Email không tồn tại",
+    "USA": "EmailIsNotExist"
+  },
+  "KeyDoesNotExist": {
+    "VNM": "Key không tồn tại",
+    "USA": "KeyDoesNotExist"
+  },
+  "PasswordOldDuplicatePasswordNew": {
+    "VNM": "Mật khẩu mới trùng với mật khẩu cũ",
+    "USA": "PasswordOldDuplicatePasswordNew"
+  },
+  "PasswordNewNotMatchConfirmPassword": {
+    "VNM": "Xác nhận mật khẩu không khớp",
+    "USA": "PasswordNewNotMatchConfirmPassword"
+  },
+  "EmailInValid": {
+    "VNM": "Email không đúng định dạng",
+    "USA": "EmailInValid"
+  },
+  "PermissionNotExist": {
+    "VNM": "Permission không tồn tại",
+    "USA": "PermissionNotExist"
+  },
+  "articleIdDonotExists": {
+    "VNM": "Bài viết không tồn tại",
+    "USA": "articleIdDonotExists"
+  },
+  "ArticleLanguageDuplicate": {
+    "VNM": "Ngôn ngữ của bài viết bị trùng lập",
+    "USA": "ArticleLanguageDuplicate"
+  },
+  "articelLanguageIdDoNotExists": {
+    "VNM": "Bài viết của ngôn ngữ này không tồn tại",
+    "USA": "articelLanguageIdDoNotExists"
+  },
+  "PageIdDoNotExists": {
+    "VNM": "Trang này không tồn tại",
+    "USA": "PageIdDoNotExists"
+  },
+  "PageModuleDoNotExists": {
+    "VNM": "Page và Module không tồn tại",
+    "USA": "PageModuleDoNotExists"
+  },
+  "moduleIdDoNotExsts": {
+    "VNM": "Module không tồn tại",
+    "USA": "moduleIdDoNotExsts"
+  },
+  "moduleLanguageIdDoNotExists": {
+    "VNM": "Ngôn ngữa thuộc Module không tồn tại",
+    "USA": "moduleLanguageIdDoNotExists"
+  },
+  "ModulePostIdDoNotExists": {
+    "VNM": "Module và bài viết không tồn tại",
+    "USA": "ModulePostIdDoNotExists"
+  },
+  "moduleIdDoNotExists": {
+    "VNM": "Module không tồn tại.",
+    "USA": "moduleIdDoNotExists"
+  },
+  "ThisModuleSystemCanNotDelete": {
+    "VNM": "Đây là module hệ thống không được xóa",
+    "USA": "ThisModuleSystemCanNotDelete"
+  },
+  "ModuleTitleCodeExists": {
+    "VNM": "ModuleTitle code đã tồn tại",
+    "USA": "ModuleTitleCodeExists"
+  },
+  "DeleteModuleLanguageSuccess": {
+    "VNM": "Xóa ngôn ngữ thuộc Module thành công",
+    "USA": "DeleteModuleLanguageSuccess"
+  },
+  "ParmeterKeyDoNotExists": {
+    "VNM": "Tham số không tồn tại",
+    "USA": "ParmeterKeyDoNotExists"
+  },
+  "ParammeterNotFound": {
+    "VNM": "Tham số đã tồn tại",
+    "USA": "ParammeterNotFound"
+  },
+  "ParammeterIsExists": {
+    "VNM": "",
+    "USA": "ParammeterIsExists"
+  },
+  "ShowAllTagSuccess": {
+    "VNM": "Hiển thị danh sách Tag thành công",
+    "USA": "ShowAllTagSuccess"
+  },
+  "ShowAllAritcleGroupByModuleTypeCodeSuccess": {
+    "VNM": "Hiển thị danh sách bài viết theo loại Module thành công",
+    "USA": "ShowAllAritcleGroupByModuleTypeCodeSuccess"
+  },
+  "ShowAllAritcleSuccess": {
+    "VNM": "Hiển thị danh sách bài viết thành công",
+    "USA": "ShowAllAritcleSuccess"
+  },
+  "showDetailArticleSuccess": {
+    "VNM": "Hiển thị chi tiết bài viết thành công",
+    "USA": "showDetailArticleSuccess"
+  },
+  "EditAritcleSuccess": {
+    "VNM": "Cập nhật bài viết thành công",
+    "USA": "EditAritcleSuccess"
+  },
+  "DeleteAritcle": {
+    "VNM": "Xóa bài viết thành công",
+    "USA": "DeleteAritcle"
+  },
+  "AddArticelLanguage": {
+    "VNM": "Thêm mới bài viết theo ngôn ngữ thành công",
+    "USA": "AddArticelLanguage"
+  },
+  "CreateArticelLanguageSuccess": {
+    "VNM": "Tạo mới bài viết theo ngôn ngữ thành công",
+    "USA": "CreateArticelLanguageSuccess"
+  },
+  "articelLanguageShowDetailSuccess": {
+    "VNM": "Cập nhật ngôn ngữa của bài viết thành công",
+    "USA": "articelLanguageShowDetailSuccess"
+  },
+  "CreatePageSuccess": {
+    "VNM": "Tạo mới trang thành công",
+    "USA": "CreatePageSuccess"
+  },
+  "ShowAllPageSuccess": {
+    "VNM": "Hiển thị tất cả các trang thành công",
+    "USA": "ShowAllPageSuccess"
+  },
+  "ShowDetailPageSuccess": {
+    "VNM": "Hiển thị chi tiết trang thành công",
+    "USA": "ShowDetailPageSuccess"
+  },
+  "EditValuePageSuccess": {
+    "VNM": "Cập nhật thông tin cho Trang thành công",
+    "USA": "EditValuePageSuccess"
+  },
+  "CreatePageModuleSuccess": {
+    "VNM": "Tạo mới Trang và Module thành công",
+    "USA": "CreatePageModuleSuccess"
+  },
+  "ShowAllPageModuleSuccess": {
+    "VNM": "Hiển thị tất cả Page và Module thành công",
+    "USA": "ShowAllPageModuleSuccess"
+  },
+  "ShowPageModuleDetailSuccess": {
+    "VNM": "Hiển thị chi tiết Page và Module thành công",
+    "USA": "ShowPageModuleDetailSuccess"
+  },
+  "DeletePageModuleSuccess": {
+    "VNM": "Xóa Page và Module thành công",
+    "USA": "DeletePageModuleSuccess"
+  },
+  "ShowAllGroupPageSuccess": {
+    "VNM": "Hiển thị Page và Module theo nhóm Page thành công",
+    "USA": "ShowAllGroupPageSuccess"
+  },
+  "SortModuleInPageSuccess": {
+    "VNM": "Sắp xếp Module trong Page thành công",
+    "USA": "SortModuleInPageSuccess"
+  },
+  "ShowModuleLanguageIdSuccess": {
+    "VNM": "Hiển thị ngôn ngữ thuộc Module",
+    "USA": "ShowModuleLanguageIdSuccess"
+  },
+  "ShowAllModuleLanguageSuccess": {
+    "VNM": "Hiển thị tất cả ngôn ngữ không thuộc Module",
+    "USA": "ShowAllModuleLanguageSuccess"
+  },
+  "ShowAllModuleSuccess": {
+    "VNM": "Hiển thị Module thành công",
+    "USA": "ShowAllModuleSuccess"
+  },
+  "AddLanguageToModuleSuccess": {
+    "VNM": "Thêm ngôn ngữ cho Module thành công",
+    "USA": "AddLanguageToModuleSuccess"
+  },
+  "ShowDetailModuleSuccess": {
+    "VNM": "Hiển thị chi tiết Module thành công",
+    "USA": "ShowDetailModuleSuccess"
+  },
+  "ShowAllDataSuccess": {
+    "VNM": "Hiển thị dữ liệu thành công",
+    "USA": "ShowAllDataSuccess"
+  },
+  "CreateModulePostSuccess": {
+    "VNM": "Khởi tạo thành công Module bài viết",
+    "USA": "CreateModulePostSuccess"
+  },
+  "ShowDetailModulePostSuccess": {
+    "VNM": "Hiển thị chi tiết Module và bài viết thành công",
+    "USA": "ShowDetailModulePostSuccess"
+  },
+  "SortPostInModuleSuccess": {
+    "VNM": "Sắp xếp bài viết trong Module thành công",
+    "USA": "SortPostInModuleSuccess"
+  },
+  "DeleteModulePostSuccess": {
+    "VNM": "Xóa Module và bài viết thành công",
+    "USA": "DeleteModulePostSuccess"
+  },
+  "ShowAllModulKeyMBSuccess": {
+    "VNM": "Hiển thì Module theo từ khóa thành công",
+    "USA": "ShowAllModulKeyMBSuccess"
+  },
+  "ShowAllParentSuccess": {
+    "VNM": "Hiển thì các Module Parent thành công",
+    "USA": "ShowAllParentSuccess"
+  },
+  "parentIdCoincidesModulePostId": {
+    "VNM": "Module Parent bị trùng lập.",
+    "USA": "parentIdCoincidesModulePostId"
+  },
+  "ParentIdIllegal": {
+    "VNM": "Parent không hợp lệ",
+    "USA": "ParentIdIllegal"
+  },
+  "UpdateParentIdToNullSuccess": {
+    "VNM": "Cập nhật Parent thành rỗng.",
+    "USA": "UpdateParentIdToNullSuccess"
+  },
+  "ThisModuleSystemCanNotDelete": {
+    "VNM": "Đây là module hệ thống không được xóa",
+    "USA": "ThisModuleSystemCanNotDelete"
+  },
+  "DeleteBookingModulesuccess": {
+    "VNM": "Xóa module thành công",
+    "USA": "DeleteBookingModulesuccess"
+  },
+  "EditBookingModuleSuccess": {
+    "VNM": "Câp nhật Module thành công",
+    "USA": "EditBookingModuleSuccess"
+  },
+  "ShowAllModuleTypeSuccess": {
+    "VNM": "Hiển thị thành công loại module",
+    "USA": "ShowAllModuleTypeSuccess"
+  },
+  "ShowAllModuleTitleGroupByModuleTypeCodeSuccess": {
+    "VNM": "Hiển thị ModuleTitle theo loại module thành công",
+    "USA": "ShowAllModuleTitleGroupByModuleTypeCodeSuccess"
+  },
+  "ShowAllModuleTitleSuccess": {
+    "VNM": "Hiển thị ModuleTitle thành công",
+    "USA": "ShowAllModuleTitleSuccess"
+  },
+  "ShowAllModuleTitleAndModuleGroupByModuleTypeCodeSuccess": {
+    "VNM": "Hiển thị ModuleTitle và module theo loại module thành công",
+    "USA": "ShowAllModuleTitleAndModuleGroupByModuleTypeCodeSuccess"
+  },
+  "CreateTitleModuleTranslateSuccess": {
+    "VNM": "Khởi tạo bản dịch Module thành công",
+    "USA": "CreateTitleModuleTranslateSuccess"
+  },
+  "ShowAllModuleTranslateGroupByModuleIdSuccess": {
+    "VNM": "Hiển thị ModuleTranslate nhóm theo Module thành công",
+    "USA": "ShowAllModuleTranslateGroupByModuleIdSuccess"
+  },
+  "updateLanguageCodeSuccess": {
+    "VNM": "Cập nhật Langueage code thành công",
+    "USA": "updateLanguageCodeSuccess"
+  },
+  "EditModuleTypeSuccess": {
+    "VNM": "Cập nhật loại module thành công",
+    "USA": "EditModuleTypeSuccess"
+  },
+  "moduleTypeCodeDoNotExists": {
+    "VNM": "Loại module không tồn tại",
+    "USA": "moduleTypeCodeDoNotExists"
+  },
+  "ShowDetailModuleTypeSuccess": {
+    "VNM": "Hiển thị chi tiết loại Module thành công",
+    "USA": "ShowDetailModuleTypeSuccess"
+  },
+  "UpdateLanguageModuleSuccess": {
+    "VNM": "Cập nhật ngôn ngữ của Module thành công",
+    "USA": "UpdateLanguageModuleSuccess"
+  },
+  "ModuleTitleCodeSuccess": {
+    "VNM": "Khổi tạo ModuleTitleCode thành công",
+    "USA": "ModuleTitleCodeSuccess"
+  },
+  "ShowListParameterSuccess": {
+    "VNM": "Hiển thị tham số thành công",
+    "USA": "ShowListParameterSuccess"
+  },
+  "ShowDetailParmeterSuccess": {
+    "VNM": "Hiển thị chi tiết tham số thành công",
+    "USA": "ShowDetailParmeterSuccess"
+  },
+  "DeleteParameterSuccess": {
+    "VNM": "Xóa tham số thành công",
+    "USA": "DeleteParameterSuccess"
+  },
+  "EditParameterSuccess": {
+    "VNM": "Cập nhật Tham số thành công",
+    "USA": "EditParameterSuccess"
+  },
+  "AddParameterSuccess": {
+    "VNM": "Khởi tạo tham số thành công",
+    "USA": "AddParameterSuccess"
+  },
+  "InsertContentNotificationSuccess": {
+    "VNM": "Thêm mới thành công",
+    "USA": "InsertContentNotificationSuccess"
+  },
+  "DeleteContentNotificationSuccess": {
+    "VNM": "Xóa thành công",
+    "USA": "DeleteContentNotificationSuccess"
+  },
+  "UpdateContentNotificationSuccess": {
+    "VNM": "Cập nhật thành công",
+    "USA": "UpdateContentNotificationSuccess"
+  },
+  "ContentNotificationNotExists": {
+    "VNM": "Nội dung không tồn tại",
+    "USA": "ContentNotificationNotExists"
+  },
+  "SuccessActiveMail": {
+    "VNM": "Tài khoản Vietjet Air của bạn đã được kích hoạt thành công",
+    "USA": "Your Vietjet Air account has been successfully actived"
+  },
+  "FailedActiveMail": {
+    "VNM": "Tài khoản Vietjet Air của bạn đã được kích hoạt, hoặc link kích hoạt đã hết hạn",
+    "USA": "Your Vietjet Air account has been actived, or the activation link has been expried"
+  },
+  "AccountIsBlockOn5Minutes": {
+    "VNM": "Tài khoản bị chặn đăng nhập trong vòng 5 phút",
+    "USA": "Account is block on 5 minutes"
+  },
+  "IdentificationDataContainingXSS": {
+    "VNM": "Dữ liệu nhận dạng chứa XSS",
+    "USA": "Identification Data Containing XSS"
+  },
+  "AddKeySuccess": {
+    "VNM": "Thêm thành công từ khóa",
+    "USA": "Add key success"
+  },
+  "GetTagsSuccess": {
+    "VNM": "Hiển thị danh sách thành công",
+    "USA": "Get list tags success"
+  },
+  "Tag Name' must be empty.": {
+    "USA": "Tag Name' must be empty.",
+    "VNM": "Tag name phải trống"
+  },
+  "DeleteTagSuccess": {
+    "USA": "Delete Tag Success",
+    "VNM": "Xóa tag thành công"
+  }
+}

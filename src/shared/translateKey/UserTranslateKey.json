@@ -1,0 +1,90 @@
+{
+    "ADD_USER": {
+        "VNM": "Thêm người dùng",
+        "USA": "Add User"
+    },
+    "FULL_NAME": {
+        "USA": "Full name",
+        "VNM": "Họ tên"
+    },
+    "EMAIL": {
+        "VNM": "Email",
+        "USA": "Email"
+    },
+    "USER_EMAIL": {
+        "VNM": "Tài khoản",
+        "USA": "User Email"
+    },
+    "ACTION": {
+        "VNM": "Thao tác",
+        "USA": "Action"
+    },
+    "PASSWORD": {
+        "VNM": "Mật khẩu",
+        "USA": "Password"
+    },
+    "EDIT": {
+        "VNM": "Chỉnh sửa",
+        "USA": "Edit"
+    },
+    "LOG_OUT": {
+        "USA": "Log out",
+        "VNM": "Đăng xuất"
+    },
+    "DELETE": {
+        "VNM": "Xóa",
+        "USA": "Delete"
+    },
+    "HI": {
+        "VNM": "Chào",
+        "USA": "Hi"
+    },
+    "SAVE": {
+        "VNM": "Lưu",
+        "USA": "Save"
+    },
+    "CANCEL": {
+        "VNM": "Hủy bỏ",
+        "USA": "Cancel"
+    },
+    "CHANGE_PASS": {
+        "VNM": "Đổi mật khẩu",
+        "USA": "Change Password"
+    },
+    "OLD_PASS": {
+        "VNM": "Mật khẩu cũ",
+        "USA": "Old Password"
+    },
+    "NEW_PASS": {
+        "VNM": "Mật khẩu mới",
+        "USA": "New Password"
+    },
+    "CONFIRM_PASS": {
+        "VNM": "Xác nhận mật khẩu",
+        "USA": "Confirm Password"
+    },
+    "CONFIRM_PASS_TEXT": {
+        "VNM": "Làm ơn xác nhận mật khẩu!",
+        "USA": "Please confirm your password!"
+    },
+    "TWO_PASS_NOT_MATCH": {
+        "VNM": "Hai mật khẩu không trùng khớp!",
+        "USA": "The two passwords that you entered do not match!"
+    },
+    "IS_REQUIRED": {
+        "VNM": "bắt buộc!",
+        "USA": "is required!"
+    },
+    "areyousuredelete": {
+        "VNM": "Bạn có muốn xóa",
+        "USA": "Are you sure delete"
+    },
+    "areyousurecancel": {
+        "VNM": "Bạn có muốn hủy tác vụ!",
+        "USA": "Are you sure cancel!"
+    },
+    "Entertosearch": {
+        "VNM": "Nhập để tìm kiếm",
+        "USA": "Enter to search"
+    }
+}

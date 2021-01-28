@@ -1,0 +1,15 @@
+.form-group.row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  textarea#description-input {
+    border: 1px solid #a49e9e;
+    width: 27vw;
+    border-radius: 8px;
+    padding: 5px 15px;
+    background-color: #e2e2e2;
+    &:focus {
+      outline: none;
+    }
+  }
+}

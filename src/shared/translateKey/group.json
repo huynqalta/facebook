@@ -1,0 +1,34 @@
+{
+  "IMPORT_EMPLOYEE": {
+    "USA": "Import Employee",
+    "VNM": "Nhập nhân viên"
+  },
+  "LIST_EMPLOYEE": {
+    "USA": "List Employee",
+    "VNM": "Danh sách nhân viên"
+  },
+  "CANCEL": {
+    "USA": "Cancel",
+    "VNM": "Hủy bỏ"
+  },
+  "SUBMIT": {
+    "USA": "Submit",
+    "VNM": "Thêm"
+  },
+  "IMPORT_EMPLOYEE_FAIL": {
+    "USA": "List Employee Import Fail",
+    "VNM": "Danh sách sách nhân viên thêm bị lỗi"
+  },
+  "GROUP_NAME": {
+    "USA": "Group name",
+    "VNM": "Tên nhóm"
+  },
+  "GROUP_CODE": {
+    "USA": "Group code",
+    "VNM": "Mã nhóm"
+  },
+  "GROUP": {
+    "USA": "Group",
+    "VNM": "Nhóm"
+  }
+}

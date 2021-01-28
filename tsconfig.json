@@ -1,0 +1,42 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist/",
+    "baseUrl": "./",
+    "sourceMap": true,
+    "noImplicitAny": false,
+    "moduleResolution": "node",
+    "module": "commonjs",
+    "allowSyntheticDefaultImports": true,
+    "target": "es6",
+    "jsx": "react",
+    "lib": ["es2018", "dom"],
+    "paths": {
+      "@recoil/*": ["src/core/adapters/recoil/*"],
+      "@entities/*": ["src/core/entities/*"],
+      "@frameworks/*": ["src/core/frameworks/*"],
+      "@api/*": ["src/core/services/api/*"],
+      "@useCases/*": ["src/core/useCases/*"],
+
+      "@view/*": ["src/ui/view/*"],
+
+      "@assets/*": ["src/shared/assets/*"],
+      "@components/*": ["src/shared/components/*"],
+      "@config/*": ["src/shared/config/*"],
+      "@helper/*": ["src/shared/helper/*"],
+      "@routers/*": ["src/shared/routers/*"],
+      "@hoc/*": ["src/shared/hoc/*"],
+      "@hook/*": ["src/shared/hook/*"],
+      "@translateKey/*": ["src/shared/translateKey/*"],
+    },
+    "types": ["node", "lodash"]
+  },
+  "TypeRoots": ["node_modules/@types"],
+  "include": ["./src/**/*"],
+  "lib": [
+    //    "es5",
+    "es2018",
+    "dom",
+    "es6"
+  ],
+  "exclude": ["node_modules", "build", "scripts"]
+}

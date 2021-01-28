@@ -1,0 +1,14 @@
+{
+  "PAGE": {
+    "USA": "Page",
+    "VNM": "Trang"
+  },
+  "PAGE_NAME": {
+    "USA": "Page name",
+    "VNM": "Tên trang"
+  },
+  "PAGE_TOTAL": {
+    "USA": "Page total",
+    "VNM": "Tổng mô-đun"
+  }
+}

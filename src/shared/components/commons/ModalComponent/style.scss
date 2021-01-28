@@ -1,0 +1,23 @@
+$color-gray-bg: #ededed;
+.modal-question {
+  width: 50% !important;
+}
+
+.ant-modal-header {
+  border-bottom: 1px solid #7f7878 !important;
+}
+
+.ant-modal-header,
+.ant-modal-content {
+  background-color: $color-gray-bg;
+}
+
+.modal-general {
+  .ant-modal-footer {
+    display: flex;
+    justify-content: flex-end;
+  }
+  .ant-form-item-label {
+    text-align: left;
+  }
+}

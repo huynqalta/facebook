@@ -1,0 +1,17 @@
+.row-dragging {
+  background: #fafafa;
+  border: 1px solid #ccc;
+  //   color: white;
+  width: 100%;
+  //   display: flex;
+  //   justify-content: space-between;
+}
+
+.row-dragging td {
+  padding: 16px;
+  visibility: hidden;
+}
+
+.row-dragging .drag-visible {
+  visibility: visible;
+}

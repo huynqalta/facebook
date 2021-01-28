@@ -1,0 +1,31 @@
+$text-color-theme: #303b42;
+.wrapper-content-dropsoze {
+  button {
+    background-color: #7acbff;
+    padding: 6px;
+    border-radius: 7px;
+  }
+  .wrapper-dropzone {
+    width: 100%;
+    cursor: pointer;
+    padding: 15px 10px 15px 10px;
+    text-align: center;
+    border: 1px dashed $text-color-theme;
+    border-radius: 15px;
+    position: relative;
+
+    .btn {
+      font-size: 12px;
+    }
+    .text-small {
+      font-size: 11px;
+      font-weight: 700;
+    }
+  }
+  .fas {
+    position: absolute;
+    right: 15px;
+    top: 10px;
+    cursor: pointer;
+  }
+}

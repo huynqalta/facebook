@@ -1,0 +1,50 @@
+@import "./../../variables";
+
+//=================SEARCH COMPONENT==============
+.search-bar {
+  position: relative;
+  margin-bottom: 20px;
+}
+
+.search-bar input.form-control {
+  font-size: 15px;
+  border-radius: 60px;
+  height: 44px;
+  padding: 10px 16px;
+  background-color: #ffffff !important;
+  border: 1px solid #eeeeee !important;
+}
+
+.search-bar input.form-control::placeholder {
+  color: rgba(48, 59, 66, 1) !important;
+  font-size: 15px;
+  opacity: 0.5 !important; /* Firefox */
+}
+
+.search-bar input.form-control:focus {
+  border: 0 solid #ffffff;
+  box-shadow: none;
+}
+
+.search-bar a i {
+  position: absolute;
+  top: 14px;
+  right: 14px;
+  color: #303b42;
+  font-size: 16px;
+}
+.icon-search {
+  position: absolute;
+  top: 25%;
+  right: 16px;
+  color: #303b42;
+  &:hover {
+    color: #303b42;
+  }
+  svg {
+    font-size: 1.5em;
+  }
+  &__img {
+    display: none;
+  }
+}

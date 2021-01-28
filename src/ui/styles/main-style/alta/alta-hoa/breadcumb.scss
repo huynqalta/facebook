@@ -1,0 +1,36 @@
+@import "./../../variables";
+
+.alta{
+  //======Breadcumb=========
+  .ant-breadcrumb {
+    a {
+      color: initial ;
+    }
+    line-height: 0.5;
+  }
+  .ant-breadcrumb-separator{
+    margin: 0 7px;
+  }
+  .breadcb {
+    font-family: "Montserrat";
+    span.anticon.anticon-right {
+      border-right: 1px solid black;
+      margin-right: 15px;
+      svg{
+        opacity: 0;
+        color: initial;
+      }
+    }
+    &__last{
+      font-size: 40px;
+      font-weight: bold;
+    }
+  }
+  .ant-breadcrumb-link {
+    color: $color-text-grey ;
+    font-size: 16px;
+    &:hover {
+      text-decoration: none ;
+    }
+  }
+}

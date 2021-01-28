@@ -1,0 +1,110 @@
+@import "./../../variables";
+
+.alta {
+  //===============SIDEBAR==============
+  .ant-layout-sider {
+    background-color: black !important;
+    .logo {
+      padding-top: 20px;
+      padding-bottom: 20px;
+    }
+    .logo-img.logoAlta {
+      width: 110px;
+      margin: 0 0 0 35px;
+    }
+  }
+  .ant-layout-sider-children {
+    background-color: $sidebarBackgroundColor;
+    border-radius: 0 0 0 $borderRadius-body;
+  }
+  .ant-layout-sider .hdbankType {
+    display: block;
+    background-color: $bodyBackgroundColor;
+    font-family: "Montserrat";
+    &__text {
+      color: white;
+      font-weight: bold;
+      font-size: 30px;
+      text-align: center;
+      padding: 100px 0 100px 0;
+      border-radius: 0 16px 0 0;
+      background-color: $color-dark;
+    }
+  }
+  aside.ant-layout-sider.ant-layout-sider-dark.siderComponent {
+    width: $alta_sidebar_width !important;
+    flex: 0 0 $alta_sidebar_width !important;
+    max-width: $alta_sidebar_width !important;
+    min-width: $alta_sidebar_width !important;
+  }
+  .ant-layout-sider .logo {
+    background-color: $bodyBackgroundColor;
+    border-radius: $borderRadius-body 0 0 0;
+  }
+  .ant-menu.ant-menu-dark {
+    .ant-menu-item:not(:last-child) {
+      margin-bottom: 16px;
+    }
+    .ant-menu-item {
+      font-weight: normal;
+      padding-left: 13px !important;
+      font-size: 14px;
+      font-family: "Montserrat";
+      text-align: center;
+      line-height: initial;
+      .item-label {
+        white-space: initial;
+      }
+      .ant-menu-item-icon {
+        display: block;
+        font-size: 1.8em;
+        margin: 0 auto;
+        margin-bottom: 10px;
+      }
+    }
+  }
+  .ant-menu-dark .ant-menu-inline.ant-menu-sub {
+    background-color: $color-dark;
+  }
+  .ant-menu.ant-menu-dark.ant-menu-root {
+    background-color: $color-dark !important;
+    padding-left: 0;
+    margin-top: 0;
+  }
+  .ant-menu.ant-menu-dark.ant-menu-inline-collapsed.ant-menu-root.ant-menu-vertical {
+    padding-left: 0;
+  }
+  .ant-menu.ant-menu-dark,
+  .ant-menu-dark .ant-menu-sub,
+  .ant-menu.ant-menu-dark .ant-menu-sub {
+    background-color: white;
+  }
+  .ant-menu-dark.ant-menu-dark:not(.ant-menu-horizontal)
+    .ant-menu-item-selected {
+    background-color: $color-alta;
+  }
+  .ant-menu-dark .ant-menu-item-selected > a,
+  .ant-menu-dark .ant-menu-item-selected > span > a,
+  .ant-menu-dark .ant-menu-item-selected > a:hover,
+  .ant-menu-dark .ant-menu-item-selected > span > a:hover,
+  .ant-menu-dark .ant-menu-item-selected .ant-menu-item-icon,
+  .ant-menu-dark .ant-menu-item-selected .anticon {
+    color: white;
+    font-weight: bold;
+
+  }
+  .ant-menu-dark.ant-menu-inline .ant-menu-item,
+  .ant-menu-dark.ant-menu-inline .ant-menu-submenu-title {
+    height: auto !important;
+    border-radius: 0;
+    padding: 13px;
+  }
+  .ant-menu.ant-menu-inline .ant-menu-submenu .ant-menu-sub {
+    .ant-menu-item-selected .item-label {
+      color: $color-alta;
+      &:hover {
+        color: $color-alta;
+      }
+    }
+  }
+}

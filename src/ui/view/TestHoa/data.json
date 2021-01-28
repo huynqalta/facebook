@@ -1,0 +1,138 @@
+[
+  {
+    "tagName": "John Brown",
+    "total": 32,
+    "group": "New YorkoPark",
+    "lastUpdate": "2014-12-24 23:12:00",
+    "gender": 0,
+    "repeatType": 2,
+    "listValue": ["Wed", "Sat", "Thu"]
+  },
+  {
+    "tagName": "Jim Green",
+    "total": 42,
+    "group": "London N ",
+    "lastUpdate": "2014-12-24 23:12:00",
+    "gender": 1,
+    "repeatType": 2,
+    "listValue": ["Wed", "Sat", "Thu"]
+  },
+  {
+    "tagName": "Joe Black",
+    "total": 32,
+    "group": "Sidney N ",
+    "lastUpdate": "2014-12-24 23:12:00",
+    "gender": 2,
+    "repeatType": 3,
+    "listValue": ["26", "25", "19", "18", "17", "23"]
+  },
+  {
+    "tagName": "John Brown",
+    "total": 32,
+    "group": "New YorkoPark",
+    "lastUpdate": "2014-12-24 23:12:00",
+    "gender": 0,
+    "repeatType": 3,
+    "listValue": ["26", "25", "19", "18", "17", "23"]
+  },
+  {
+    "tagName": "Jim Green",
+    "total": 42,
+    "group": "London N ",
+    "lastUpdate": "2014-12-24 23:12:00",
+    "gender": 1,
+    "repeatType": 2,
+    "listValue": ["Wed", "Sat", "Thu"]
+  },
+  {
+    "tagName": "Joe Black",
+    "total": 32,
+    "group": "Sidney N ",
+    "lastUpdate": "2014-12-24 23:12:00",
+    "gender": 2
+  },
+  {
+    "tagName": "John Brown",
+    "total": 32,
+    "group": "New YorkoPark",
+    "lastUpdate": "2014-12-24 23:12:00",
+    "gender": 0
+  },
+  {
+    "tagName": "Jim Green",
+    "total": 42,
+    "group": "London N ",
+    "lastUpdate": "2014-12-24 23:12:00",
+    "gender": 1
+  },
+  {
+    "tagName": "Joe Black",
+    "total": 32,
+    "group": "Sidney N ",
+    "lastUpdate": "2014-12-24 23:12:00",
+    "gender": 2
+  },
+  {
+    "tagName": "John Brown",
+    "total": 32,
+    "group": "New YorkoPark",
+    "lastUpdate": "2014-12-24 23:12:00",
+    "gender": 0
+  },
+  {
+    "tagName": "Jim Green",
+    "total": 42,
+    "group": "London N ",
+    "lastUpdate": "2014-12-24 23:12:00",
+    "gender": 1
+  },
+  {
+    "tagName": "Joe Black",
+    "total": 32,
+    "group": "Sidney N ",
+    "lastUpdate": "2014-12-24 23:12:00",
+    "gender": 2
+  },
+  {
+    "tagName": "John Brown",
+    "total": 32,
+    "group": "New YorkoPark",
+    "lastUpdate": "2014-12-24 23:12:00",
+    "gender": 0
+  },
+  {
+    "tagName": "Jim Green",
+    "total": 42,
+    "group": "London N ",
+    "lastUpdate": "2014-12-24 23:12:00",
+    "gender": 1
+  },
+  {
+    "tagName": "Joe Black",
+    "total": 32,
+    "group": "Sidney N ",
+    "lastUpdate": "2014-12-24 23:12:00",
+    "gender": 2
+  },
+  {
+    "tagName": "John Brown",
+    "total": 32,
+    "group": "New YorkoPark",
+    "lastUpdate": "2014-12-24 23:12:00",
+    "gender": 0
+  },
+  {
+    "tagName": "Jim Green",
+    "total": 42,
+    "group": "London N ",
+    "lastUpdate": "2014-12-24 23:12:00",
+    "gender": 1
+  },
+  {
+    "tagName": "Joe Black",
+    "total": 32,
+    "group": "Sidney N ",
+    "lastUpdate": "2014-12-24 23:12:00",
+    "gender": 2
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "ARTICLE": {
+    "USA": "Article",
+    "VNM": "Bài viết"
+  },
+  "ADD_ARTICLE": {
+    "USA": "Add article",
+    "VNM": "Thêm bài viết"
+  },
+  "ARTICLE_PARENT": {
+    "USA": "Article parent",
+    "VNM": "Bài viết cha"
+  },
+  "TYPE": {
+    "USA": "Type",
+    "VNM": "Loại"
+  },
+  "TAKE_IN_PARENT": {
+    "USA": "Take in parent",
+    "VNM": "Đưa vào"
+  },
+  "TAKE_OUT_PARENT": {
+    "USA": "Take out parent",
+    "VNM": "Đưa ra"
+  }
+}

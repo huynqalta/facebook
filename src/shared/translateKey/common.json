@@ -1,0 +1,106 @@
+{
+  "ACTION": {
+    "USA": "Action",
+    "VNM": "Hành động"
+  },
+  "ADD": {
+    "USA": "Add",
+    "VNM": "Thêm"
+  },
+  "COUNTRY": {
+    "USA": "Country",
+    "VNM": "Quốc gia"
+  },
+  "DELETE": {
+    "USA": "Delete",
+    "VNM": "Xóa"
+  },
+  "EDIT": {
+    "USA": "Edit",
+    "VNM": "Sửa"
+  },
+  "TITLE": {
+    "USA": "Title",
+    "VNM": "Tiêu đề"
+  },
+  "CREATE": {
+    "USA": "Create",
+    "VNM": "Tạo mới"
+  },
+  "UPDATE": {
+    "USA": "Update",
+    "VNM": "Cập nhật"
+  },
+  "SAVE": {
+    "USA": "Save",
+    "VNM": "Lưu"
+  },
+  "CANCEL": {
+    "USA": "Cancel",
+    "VNM": "Hủy"
+  },
+  "YES": {
+    "USA": "Yes",
+    "VNM": "Đồng ý"
+  },
+  "DETAIL": {
+    "USA": "Detail",
+    "VNM": "Chi tiết"
+  },
+  "TOTAL": {
+    "USA": "Total",
+    "VNM": "Tổng"
+  },
+  "TYPE": {
+    "USA": "Type",
+    "VNM": "Loại"
+  },
+  "PLACEHOLDER": {
+    "USA": "Type here...",
+    "VNM": "Nhập vào đây..."
+  },
+  "MUST_TYPE": {
+    "USA": "Please type",
+    "VNM": "Vui lòng nhập"
+  },
+  "SEARCH": {
+    "USA": "Search",
+    "VNM": "Tìm kiếm"
+  },
+  "LANGUAGE": {
+    "USA": "Language",
+    "VNM": "Ngôn ngữ"
+  },
+  "IMPORT": {
+    "USA": "Import",
+    "VNM": "Nhập"
+  },
+  "EXPORT": {
+    "USA": "Export",
+    "VNM": "Xuất"
+  },
+  "HOME": {
+    "USA": "Home",
+    "VNM": "Trang chủ"
+  },
+  "NO_REPEAT": {
+    "USA": "No repeat",
+    "VNM": "Không lặp lại"
+  },
+  "DAILY": {
+    "USA": "Daily",
+    "VNM": "Mỗi ngày"
+  },
+  "WEEKLY": {
+    "USA": "Weekly",
+    "VNM": "Mỗi tuần"
+  },
+  "MONTHLY": {
+    "USA": "Monthly",
+    "VNM": "Mỗi tháng"
+  },
+  "YEARLY": {
+    "USA": "Yearly",
+    "VNM": "Mỗi năm"
+  }
+}

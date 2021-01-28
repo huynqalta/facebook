@@ -1,0 +1,50 @@
+{
+  "DASHBOARD": {
+    "USA": "Dash board",
+    "VNM": "Trang chủ"
+  },
+  "EMPLOYEE": {
+    "USA": "Employee",
+    "VNM": "Nhân viên"
+  },
+  "LIST_PRODUCT": {
+    "USA": "Menu",
+    "VNM": "Thực đơn"
+  },
+  "MANAGER_ORDER": {
+    "USA": "Order",
+    "VNM": "Đơn hàng"
+  },
+  "CATEGORY": {
+    "USA": "Category",
+    "VNM": "Danh mục"
+  },
+  "SYSTEM": {
+    "USA": "System setting",
+    "VNM": "Cài đặt hệ thống"
+  },
+  "LANGUAGE": {
+    "USA": "Language",
+    "VNM": "Ngôn ngữ"
+  },
+  "PARAMETER": {
+    "USA": "Parameter",
+    "VNM": "Tham số"
+  },
+  "MEDIA_ASSET": {
+    "USA": "Media",
+    "VNM": "Thư viện"
+  },
+  "TAG_MAN": {
+    "USA": "Tag managerment",
+    "VNM": "Quản lý thẻ"
+  },
+  "GROUP": {
+    "USA": "Group",
+    "VNM": "Nhóm"
+  },
+  "USERSYSTEM": {
+    "USA": "User system",
+    "VNM": "Hệ thống người dùng"
+  }
+}

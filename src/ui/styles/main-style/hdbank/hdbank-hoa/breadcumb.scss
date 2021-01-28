@@ -1,0 +1,35 @@
+@import "./../../variables";
+
+//======Breadcumb=========
+.ant-breadcrumb {
+  margin-bottom: 1.6em;
+  justify-content: center ;
+  align-items: center ;
+  font-size: 1.25em ;
+  a {
+    color: $color-origin ;
+  }
+}
+.breadcb {
+  span.anticon.anticon-right {
+    display: initial;
+    svg{
+      color: $color-origin;
+    }
+  }
+}
+
+.ant-breadcrumb-link {
+  color: $color-origin ;
+  &:hover {
+    text-decoration: underline ;
+  }
+}
+.ant-breadcrumb-separator {
+  margin: 0 20px ;
+  margin-bottom: 2px ;
+  svg {
+    // font-size: 1.5em ;
+    margin-bottom: 5px ;
+  }
+}

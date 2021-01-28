@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.login {
+  @apply bg-black;
+  @apply bg-opacity-25;
+}
+
+.content-area {
+  width: calc(100% - 275px);
+}

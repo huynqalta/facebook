@@ -1,0 +1,61 @@
+@import "./../../variables";
+
+//======Tab CSS===========
+.alta {
+  .ant-tabs-ink-bar.ant-tabs-ink-bar-animated {
+    background: transparent !important;
+  }
+  .ant-tabs {
+    width: fit-content;
+  }
+  .ant-tabs-top > .ant-tabs-nav::before {
+    border-bottom: none;
+  }
+  .ant-tabs > .ant-tabs-nav .ant-tabs-nav-list,
+  .ant-tabs > div > .ant-tabs-nav .ant-tabs-nav-list {
+    width: fit-content !important;
+  }
+  .ant-tabs-nav-list {
+    width: fit-content !important;
+    background: #ececec;
+    padding: 8px;
+    border-radius: 50px;
+
+    .ant-tabs-tab {
+      font-family: "Montserrat";
+      padding: 5px 50px !important;
+      width: fit-content !important;
+      margin: 0 !important;
+      justify-content: space-between !important;
+
+      .ant-tabs-tab-btn {
+        margin: 0 auto !important;
+        font-size: 1.2em !important;
+        color: black !important;
+        .anticon {
+          vertical-align: 2px;
+        }
+      }
+    }
+    .ant-tabs-tab-active {
+      background: $sidebarBackgroundColor;
+      border-radius: 50px;
+      .ant-tabs-tab-btn {
+        font-weight: bold;
+      }
+    }
+  }
+  .ant-tabs-tab .ant-tabs-tab-btn {
+    color: #292b2e !important;
+    opacity: 0.5;
+  }
+  .ant-tabs-nav-list .ant-tabs-tab.ant-tabs-tab-active .ant-tabs-tab-btn {
+    color: white !important;
+    opacity: 1;
+  }
+  //======TAB===========
+  .ant-select-multiple .ant-select-selection-item {
+    color: $color-alta !important;
+    background: #fff1f0 !important;
+  }
+}

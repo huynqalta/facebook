@@ -1,0 +1,48 @@
+@import "./../../variables";
+
+//===========BUTTON============
+.alta {
+  .btn-add.ant-btn-round.ant-btn-lg {
+    padding: 10px 9px 10px 35px;
+    height: 46px;
+    font-size: 16px;
+    box-shadow: none;
+    background-color: $color-alta !important;
+    border-radius: 50px;
+    color: white !important;
+    .anticon {
+      background-color: $color-alta;
+      color: white !important;
+      padding: 6px;
+      border-radius: 50px;
+      position: absolute;
+      top: 8px;
+      left: 8px;
+    }
+  }
+  .ant-btn:hover,
+  .ant-btn:focus,
+  .ant-btn:active {
+    background-color: $color-alta !important;
+  }
+
+  .ant-btn:hover,
+  .ant-btn:focus {
+    color: white;
+    border: none !important;
+  }
+  .btn-add.ant-btn-round.ant-btn-lg.green {
+    background-color: $color-green !important;
+    box-shadow: 0 10px 20px 0px rgba(0, 141, 14, 0.18) !important;
+    svg {
+      color: $color-green;
+    }
+  }
+  .btn-add.orange {
+    background-color: $color-yellow-1 !important;
+    box-shadow: 0 10px 20px 0px rgba(189, 124, 3, 0.18) !important;
+    svg {
+      color: $color-yellow-1;
+    }
+  }
+}

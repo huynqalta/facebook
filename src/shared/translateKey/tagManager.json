@@ -1,0 +1,74 @@
+{
+  "TAG_NAME": {
+    "USA": "Tag name",
+    "VNM": "Tên thẻ"
+  },
+  "TAG_TIME_START": {
+    "USA": "Tag time start",
+    "VNM": "Thời gian thẻ bắt đầu"
+  },
+  "TAG_TIME_END": {
+    "USA": "Tag time end",
+    "VNM": "Thời gian thẻ kết thúc"
+  },
+  "CREATED_AT": {
+    "USA": "Created at",
+    "VNM": "Tạo lúc"
+  },
+  "UPDATE_AT": {
+    "USA": "Update at",
+    "VNM": "Cập nhật lúc"
+  },
+  "ADD_TAG": {
+    "USA": "Add tag",
+    "VNM": "Thêm thẻ"
+  },
+  "TICKET_NAME": {
+    "USA": "Ticket type name",
+    "VNM": "Tên loại vé"
+  },
+  "REPEAT_TYPE": {
+    "USA": "Repeat Type",
+    "VNM": "Chu kỳ lặp lại"
+  },
+  "TAG_MANAGER": {
+    "USA": "Tag manager",
+    "VNM": "Quản lý thẻ"
+  },
+  "RANGE_DATE": {
+    "USA": "Range date",
+    "VNM": "Khung ngày"
+  },
+  "RANGE_TAG_TIME": {
+    "USA": "Range tag time",
+    "VNM": "Khung thời gian thẻ"
+  },
+  "TAG_COMMENT": {
+    "USA": "Tag comment",
+    "VNM": "Ghi chú"
+  },
+  "TAG_CODE": {
+    "USA": "Tag code",
+    "VNM": "Mã thẻ"
+  },
+  "TAG_FROM": {
+    "USA": "tag from",
+    "VNM": "từ"
+  },
+  "MALE": {
+    "USA": "tag from",
+    "VNM": "từ"
+  },
+  "FEMALE": {
+    "USA": "tag from",
+    "VNM": "từ"
+  },
+  "OTHER": {
+    "USA": "tag from",
+    "VNM": "từ"
+  },
+  "ADD_TAG_FOR_EMPLOYEE": {
+    "USA": "Add tags for employees",
+    "VNM": "Thêm thẻ cho nhân viên"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "LANGUAGE": {
+    "USA": "Language",
+    "VNM": "Ngôn ngữ"
+  },
+  "LIST_LANGUAGE": {
+    "USA": "List language",
+    "VNM": "Danh sách ngôn ngữ"
+  },
+  "KEY": {
+    "USA": "Key",
+    "VNM": "Từ khóa"
+  },
+  "LIST_KEY": {
+    "USA": "List key",
+    "VNM": "Danh sách từ khóa"
+  },
+  "ADD_KEY": {
+    "USA": "Add key",
+    "VNM": "Thêm từ khóa"
+  },
+  "ADD_LANGUAGE": {
+    "USA": "Add language",
+    "VNM": "Thêm ngôn ngữ"
+  },
+  "KEY_CODE": {
+    "USA": "Key code",
+    "VNM": "Mã từ khóa"
+  },
+  "LANGUAGE_CODE": {
+    "USA": "Language code",
+    "VNM": "Mã ngôn ngữ"
+  },
+  "LANGUAGE_NAME": {
+    "USA": "Language name",
+    "VNM": "Tên ngôn ngữ"
+  },
+  "LANGUAGE_SUB": {
+    "USA": "Language sub",
+    "VNM": "Ngôn ngữ phụ"
+  },
+  "KEY_DESCRIPTION": {
+    "USA": "Key description",
+    "VNM": "Mô tả từ khóa"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "MODULE": {
+    "USA": "Module",
+    "VNM": "Mô-đun"
+  },
+  "MODULE_NAME": {
+    "USA": "Module name",
+    "VNM": "Tên mô-đun"
+  },
+  "ADD_MODULE": {
+    "USA": "Add Module",
+    "VNM": "Thêm mô-đun"
+  }
+}

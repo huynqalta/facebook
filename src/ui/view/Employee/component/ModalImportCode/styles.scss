@@ -1,0 +1,22 @@
+.upload-file {
+  //border: 1px dashed $color-theme;
+  //width: 50rem;
+  .ant-form-item-label > label {
+    width: 100%;
+    height: 100%;
+    &:hover {
+      cursor: pointer;
+    }
+    &::after {
+      content: "";
+    }
+  }
+  .ant-form-item {
+    width: 100%;
+    text-align: center;
+    margin: 0px;
+  }
+  .ant-form-item-control {
+    display: none !important;
+  }
+}
