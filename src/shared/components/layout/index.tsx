@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import Navbar from "./Navbar";
 const DefaultLayout = (props) => {
   const [ toogleSider, setToogleSider ] = useState(false);
 
@@ -16,7 +17,7 @@ const DefaultLayout = (props) => {
     //   </div>
     // </section>
     <section>
-      hi huy
+      <Navbar />
     </section>
   );
 };
