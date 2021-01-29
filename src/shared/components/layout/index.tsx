@@ -1,5 +1,8 @@
 import React, { useState } from "react";
 import Navbar from "./Navbar";
+import Posts from "./Posts";
+import SideBar from "./SideBar";
+import "./style.scss"
 const DefaultLayout = (props) => {
   const [ toogleSider, setToogleSider ] = useState(false);
 
@@ -18,6 +21,10 @@ const DefaultLayout = (props) => {
     // </section>
     <section>
       <Navbar />
+      <div className="facebook">
+        <SideBar />
+        <Posts />
+      </div>
     </section>
   );
 };

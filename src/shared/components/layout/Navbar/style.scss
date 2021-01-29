@@ -6,4 +6,84 @@
     align-items: center;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     padding: 0 30px;
+    position: fixed;
+    top: 0;
+    z-index: 1000000000;
+    .navbar__first {
+        display: flex;
+        align-items: center;
+        width: 25%;
+        .navbar__first-logo {
+            width: 20%;
+            .navbar__logo {
+                font-size: 40px;
+                color: #0d8cf1;
+            }
+        }
+        .navbar__first-search {
+            width: 80%;
+            position: relative;
+            .navbar__first-searchbar {
+                width: 100%;
+                padding: 10px 45px;
+                border: none;
+                background: #f0f2f5;
+                border-radius: 30px;
+                outline: none;
+            }
+            .navbar__searchIcon {
+                position: absolute;
+                left: 20px;
+                top: 13px;
+                font-size: 18px;
+                color: silver;
+            }
+        }
+    }
+    .navbar__middle {
+        width: 50%;
+        display: flex;
+        padding: 0 70px;
+        justify-content: space-between;
+        .middleIcon {
+            display: inline-block;
+            position: relative;
+            .navbar__middle-icons {
+                font-size: 27px;
+                color: #606770;
+                cursor: pointer;
+            }
+            .navbar__notify {
+                display: flex;
+                position: absolute;
+                width: 20px;
+                height: 20px;
+                background: #f1327b;
+                top: -8px;
+                left: 15px;
+                border-radius: 50%;
+                justify-content: center;
+                align-items: center;
+                font-size: 12px;
+                color: #fff;
+                box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            }
+        }
+    }
+    .navbar__last {
+        display: flex;
+        width: 25%;
+        justify-content: center;
+        .navbar__last-section {
+            display: flex;
+            margin: 0 15px;
+            width: 45px;
+            height: 45px;
+            background: #f0f5f2;
+            justify-content: center;
+            align-items: center;
+            border-radius: 50%;
+            cursor: pointer;
+        }
+    }
 }
