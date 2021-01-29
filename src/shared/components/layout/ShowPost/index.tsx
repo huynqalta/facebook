@@ -73,7 +73,7 @@ const ShowPost = () => {
                                 </div>
                                 <div className="show__reactions">
                                     <div className="reactions">
-                                        <FaRegThumbsUp /><span className="reactions-text">Likes</span>
+                                        <FaRegThumbsUp /><span className="reactions-text">Like</span>
                                     </div>
                                     <div className="reactions">
                                         <FaRegCommentAlt /><span className="reactions-text">Comments</span>
